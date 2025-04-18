@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744654769267
+current_stage: None
+description: ''
+last_updated_timestamp: 1744654769267
+name: XGBoost_optim_echantillon
+run_id: b8bb8969de0245028ebf51c6554e1aae
+run_link: ''
+source: mlflow-artifacts:/885410989458547713/b8bb8969de0245028ebf51c6554e1aae/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/885410989458547713/b8bb8969de0245028ebf51c6554e1aae/artifacts/model
+user_id: null
+version: 1

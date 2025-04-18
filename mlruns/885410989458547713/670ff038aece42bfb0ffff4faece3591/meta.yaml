@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/885410989458547713/670ff038aece42bfb0ffff4faece3591/artifacts
+end_time: 1744654534525
+entry_point_name: ''
+experiment_id: '885410989458547713'
+lifecycle_stage: active
+run_id: 670ff038aece42bfb0ffff4faece3591
+run_name: sneaky-boar-424
+run_uuid: 670ff038aece42bfb0ffff4faece3591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744654522234
+status: 3
+tags: []
+user_id: Emmanuel

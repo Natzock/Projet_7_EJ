@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d61d453c57b046b39e05c66371cdb7d3/artifacts
+end_time: 1744656821406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d61d453c57b046b39e05c66371cdb7d3
+run_name: selective-ray-381
+run_uuid: d61d453c57b046b39e05c66371cdb7d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744656799595
+status: 3
+tags: []
+user_id: Emmanuel

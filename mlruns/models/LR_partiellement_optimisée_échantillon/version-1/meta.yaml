@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744653929897
+current_stage: None
+description: ''
+last_updated_timestamp: 1744653929897
+name: LR_partiellement_optimisée_échantillon
+run_id: 248d58d698dc4b0887859117f3976c0b
+run_link: ''
+source: mlflow-artifacts:/885410989458547713/248d58d698dc4b0887859117f3976c0b/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/885410989458547713/248d58d698dc4b0887859117f3976c0b/artifacts/model
+user_id: null
+version: 1

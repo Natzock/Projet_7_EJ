@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/885410989458547713/dabe0984e5694a27bb691d9f6c1df79e/artifacts
+end_time: 1744652136760
+entry_point_name: ''
+experiment_id: '885410989458547713'
+lifecycle_stage: active
+run_id: dabe0984e5694a27bb691d9f6c1df79e
+run_name: big-quail-34
+run_uuid: dabe0984e5694a27bb691d9f6c1df79e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744652092520
+status: 3
+tags: []
+user_id: Emmanuel

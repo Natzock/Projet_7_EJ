@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/885410989458547713/e12f0df3ce4c43a89fb8b8e7a68417fb/artifacts
+end_time: 1744653968989
+entry_point_name: ''
+experiment_id: '885410989458547713'
+lifecycle_stage: active
+run_id: e12f0df3ce4c43a89fb8b8e7a68417fb
+run_name: salty-mare-30
+run_uuid: e12f0df3ce4c43a89fb8b8e7a68417fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744653930195
+status: 3
+tags: []
+user_id: Emmanuel

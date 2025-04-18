@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744663882999
+current_stage: None
+description: ''
+last_updated_timestamp: 1744663882999
+name: LGBM_optim
+run_id: 3595ba35154d41fd9232bda438ef0ab8
+run_link: ''
+source: mlflow-artifacts:/0/3595ba35154d41fd9232bda438ef0ab8/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/3595ba35154d41fd9232bda438ef0ab8/artifacts/model
+user_id: null
+version: 1
