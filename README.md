@@ -1,7 +1,9 @@
 # Nom du Projet : Projet_7
 
 ## Description
-Une brève description de votre projet. Expliquez ce que fait le projet, quels problèmes il résout, et pourquoi il est utile.
+formation datascientist openclassrooms. 
+Projet 7 = récupérer des données bancaires à inclure dans un modèle de prédiction du remboursement d'un crédit. 
+Gestion du cycle de vie de ce projet (MLops)
 
 ## Table des Matières
 - [Installation](#installation)
