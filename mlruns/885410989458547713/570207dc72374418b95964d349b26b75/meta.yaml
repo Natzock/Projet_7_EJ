@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/885410989458547713/570207dc72374418b95964d349b26b75/artifacts
+end_time: 1746456843342
+entry_point_name: ''
+experiment_id: '885410989458547713'
+lifecycle_stage: active
+run_id: 570207dc72374418b95964d349b26b75
+run_name: auspicious-stork-889
+run_uuid: 570207dc72374418b95964d349b26b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746456812269
+status: 3
+tags: []
+user_id: Emmanuel

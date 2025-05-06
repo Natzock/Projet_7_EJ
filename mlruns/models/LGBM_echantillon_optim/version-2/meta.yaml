@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746459145689
+current_stage: None
+description: ''
+last_updated_timestamp: 1746459145689
+name: LGBM_echantillon_optim
+run_id: a261cf241e7c496f88310aeffa9d2728
+run_link: ''
+source: mlflow-artifacts:/885410989458547713/a261cf241e7c496f88310aeffa9d2728/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/885410989458547713/a261cf241e7c496f88310aeffa9d2728/artifacts/model
+user_id: null
+version: 2

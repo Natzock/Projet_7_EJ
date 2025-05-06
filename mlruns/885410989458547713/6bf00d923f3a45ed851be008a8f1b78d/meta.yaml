@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/885410989458547713/6bf00d923f3a45ed851be008a8f1b78d/artifacts
+end_time: 1746458920488
+entry_point_name: ''
+experiment_id: '885410989458547713'
+lifecycle_stage: active
+run_id: 6bf00d923f3a45ed851be008a8f1b78d
+run_name: resilient-cub-166
+run_uuid: 6bf00d923f3a45ed851be008a8f1b78d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746458903756
+status: 3
+tags: []
+user_id: Emmanuel

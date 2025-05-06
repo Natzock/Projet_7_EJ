@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746456868549
+current_stage: None
+description: ''
+last_updated_timestamp: 1746456868549
+name: LR_cost_déséquilibré
+run_id: 0299e2fc61924cd0aa186269de478afe
+run_link: ''
+source: mlflow-artifacts:/885410989458547713/0299e2fc61924cd0aa186269de478afe/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/885410989458547713/0299e2fc61924cd0aa186269de478afe/artifacts/model
+user_id: null
+version: 3

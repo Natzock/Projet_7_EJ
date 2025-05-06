@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746458920457
+current_stage: None
+description: ''
+last_updated_timestamp: 1746458920457
+name: RF_echantillon
+run_id: 6bf00d923f3a45ed851be008a8f1b78d
+run_link: ''
+source: mlflow-artifacts:/885410989458547713/6bf00d923f3a45ed851be008a8f1b78d/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/885410989458547713/6bf00d923f3a45ed851be008a8f1b78d/artifacts/model
+user_id: null
+version: 2

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746459070832
+current_stage: None
+description: ''
+last_updated_timestamp: 1746459070832
+name: RF_optim_echantillon
+run_id: a7e88f4ed18e4fabacfd6bc37e78e47a
+run_link: ''
+source: mlflow-artifacts:/885410989458547713/a7e88f4ed18e4fabacfd6bc37e78e47a/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/885410989458547713/a7e88f4ed18e4fabacfd6bc37e78e47a/artifacts/model
+user_id: null
+version: 2

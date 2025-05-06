@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746456843290
+current_stage: None
+description: ''
+last_updated_timestamp: 1746456843290
+name: LR_simple_déséquilibré
+run_id: 570207dc72374418b95964d349b26b75
+run_link: ''
+source: mlflow-artifacts:/885410989458547713/570207dc72374418b95964d349b26b75/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/885410989458547713/570207dc72374418b95964d349b26b75/artifacts/model
+user_id: null
+version: 3

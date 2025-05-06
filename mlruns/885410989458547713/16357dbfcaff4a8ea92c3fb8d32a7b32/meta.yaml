@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/885410989458547713/16357dbfcaff4a8ea92c3fb8d32a7b32/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '885410989458547713'
+lifecycle_stage: active
+run_id: 16357dbfcaff4a8ea92c3fb8d32a7b32
+run_name: burly-loon-596
+run_uuid: 16357dbfcaff4a8ea92c3fb8d32a7b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746457692825
+status: 1
+tags: []
+user_id: Emmanuel
