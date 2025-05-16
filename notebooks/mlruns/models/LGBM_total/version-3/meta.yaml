@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747234626266
+current_stage: None
+description: ''
+last_updated_timestamp: 1747234626266
+name: LGBM_total
+run_id: 7a317c8fdd91456b95f9e8638712fbda
+run_link: ''
+source: mlflow-artifacts:/0/7a317c8fdd91456b95f9e8638712fbda/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/7a317c8fdd91456b95f9e8638712fbda/artifacts/model
+user_id: null
+version: 3

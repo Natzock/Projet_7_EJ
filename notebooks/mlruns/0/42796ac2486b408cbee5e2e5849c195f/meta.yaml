@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/42796ac2486b408cbee5e2e5849c195f/artifacts
+end_time: 1747231544878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42796ac2486b408cbee5e2e5849c195f
+run_name: treasured-kit-738
+run_uuid: 42796ac2486b408cbee5e2e5849c195f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747231534135
+status: 3
+tags: []
+user_id: Emmanuel

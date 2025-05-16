@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/52b2ec00dda249c49649941467ae85d3/artifacts
+end_time: 1747231988708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52b2ec00dda249c49649941467ae85d3
+run_name: beautiful-crab-526
+run_uuid: 52b2ec00dda249c49649941467ae85d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747231976765
+status: 3
+tags: []
+user_id: Emmanuel

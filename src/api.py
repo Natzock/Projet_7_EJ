@@ -1,7 +1,6 @@
-from fastapi import FastAPI
+import requests
 
-app = FastAPI()
+print(requests.get("http://127.0.0.1:8000/").json())
 
-@app.get("/")
-def great():
-    return {"message": "bonjour"}
+
+
