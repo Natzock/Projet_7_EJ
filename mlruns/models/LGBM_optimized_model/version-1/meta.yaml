@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747405966041
+current_stage: None
+description: LightGBM model optimized with GridSearchCV and custom cost function.
+last_updated_timestamp: 1747405966137
+name: LGBM_optimized_model
+run_id: 5e46c18c0b004535a9ef0dc59b7868c0
+run_link: ''
+source: mlflow-artifacts:/0/5e46c18c0b004535a9ef0dc59b7868c0/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/5e46c18c0b004535a9ef0dc59b7868c0/artifacts/model
+user_id: null
+version: 1
