@@ -1,0 +1,26 @@
+artifact_path: LGBM
+flavors:
+  lightgbm:
+    code: null
+    data: model.lgb
+    lgb_version: 4.6.0
+    model_class: lightgbm.basic.Booster
+  python_function:
+    data: model.lgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.11.9
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 349498
+model_uuid: 9a89b617bf384433809a87d9d7805dab
+prompts: null
+run_id: 5e46c18c0b004535a9ef0dc59b7868c0
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 776]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-05-16 14:32:39.511950'
